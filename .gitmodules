@@ -1,0 +1,3 @@
+[submodule "src/famous"]
+	path = src/famous
+	url = git@github.com:timjchin/famous.git
